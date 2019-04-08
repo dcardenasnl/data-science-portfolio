@@ -366,7 +366,7 @@ CATEGORY: Restaurants
 i. Do the two groups you chose to analyze have a different distribution of hours?
 
 YES. Simple view shows that business with "2-3" stars tends to have more hours
-opened. Besides, "4-5" business open later most frequently.tly.
+opened. Besides, "4-5" business open later most frequently.
 
 --
 
