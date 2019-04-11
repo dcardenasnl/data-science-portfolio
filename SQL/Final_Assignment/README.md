@@ -1,4 +1,4 @@
-## Data Scientist Role Play: Profiling and Analyzing the Yelp
+## Data Scientist Role Play: Profiling and Analyzing the Yelp (42 / 43 Pts)
 
 This README Summary the relavant work used in SQL final Project
 
