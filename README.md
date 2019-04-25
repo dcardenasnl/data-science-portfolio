@@ -14,7 +14,7 @@ For each subject, I recommend to view:
 
    * [Exploratory Data Analysis](Data_Science/Titanic_Machine_Learning_from_Disaster/python/2a_Tree based methods.ipynb)
 
-[Supervised_Learning](Data_Science/Titanic_Machine_Learning_from_Disaster/python/2a_Tree based methods.ipynb)
+[Supervised_Learning](Data_Science/Titanic_Machine_Learning_from_Disaster/python/1_Exploring_and_Preparing_data.ipynb)
 
 
    * [Tree Base method modeling](Data_Science/Titanic_Machine_Learning_from_Disaster/python/2a_Tree based methods.ipynb)
