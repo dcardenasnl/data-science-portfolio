@@ -18,3 +18,8 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 ### Metric
 
 Your score is the percentage of passengers you correctly predict. This is known simply as "accuracy”.
+
+### Solutions
+
+* [Exploratory Data Analysis](Titanic_Machine_Learning_from_Disaster/Final_Assignment/python/1_Exploring_and_Preparing_data.ipynb)
+* [Tree Base method modeling](Titanic_Machine_Learning_from_Disaster/Final_Assignment/python/2a_Tree based methods.ipynb)
